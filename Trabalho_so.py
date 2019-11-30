@@ -17,9 +17,9 @@ def transferencia(conta1,conta2):
 if __name__ == '__main__':
     conta_from = Conta(100)
     conta_to = Conta(100)
-    valor = 10
+    valor = 1
 
-    for i in range (0,10):
+    for i in range (0,100):
         thrd = threading.Thread(target = transferencia(conta_from,conta_to))# retorna uma thread
                                                                             # passando como parametro
                                                                             # a função de transferencia
