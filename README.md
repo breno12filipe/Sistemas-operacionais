@@ -22,8 +22,8 @@
 - py Trabalho_so.py
 
 ### Comprovação da eficácia e objetivos alcançados
-- Cada conta equivale a uma thread criada e cada thread criada não atrapalha o fluxo das demais threads
-- O resultado se deu pelo uso do semaforo, que controla o acesso às threads por parte do programa
+- Cada transferência é uma thread criada e cada thread criada não atrapalha o fluxo das demais threads
+- O resultado se deu pela implementação do semáforo, que controla o acesso às threads por parte do programa
 - São realizadas 100 transferências simultâneas
 - O saldo da conta from é zerado pela conta to
 - As contas podem trocar de ordem apenas por mudar a ordem entre conta from e conta to nos parâmetros da função transferencia
