@@ -21,7 +21,7 @@
 - cd Sistemas-operacionais
 - py Trabalho_so.py
 
-#### Comprovação da eficácia e objetivos alcançados
+### Comprovação da eficácia e objetivos alcançados
 - Cada transferência é uma thread criada e cada thread criada não atrapalha o fluxo das demais threads
 - O resultado se deu pela implementação do semáforo, que controla o acesso às threads por parte do programa
 - São realizadas 100 transferências simultâneas
