@@ -18,3 +18,5 @@
 - git clone https://github.com/breno12filipe/Trabalho_so.py.git
 - cd Trabaho_so.py
 - py Trabalho_so.py
+
+### Comprovação da eficácia e objetivos alcançados
